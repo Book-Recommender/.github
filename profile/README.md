@@ -1,3 +1,11 @@
-## Information for this Project will be stored in the below doc: 
+## Book Club Description
 
-https://docs.google.com/document/d/1Br9wsaGbbjWVmMTRTIeVJMo_tpdyxNC_3m2AJJkZka8/edit?tab=t.0
+### Book Club is a web application that provides the user with book recommendations, allows them to track the books they have already read, and keep track of what books they are currently reading.
+
+## Repositories:
+
+### Frontend: https://github.com/Book-Recommender/frontend
+
+### Backend: https://github.com/Book-Recommender/backend
+
+### Learning Model: https://github.com/Book-Recommender/learning-model
