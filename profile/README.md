@@ -9,3 +9,15 @@
 ### Backend: https://github.com/Book-Recommender/backend
 
 ### Learning Model: https://github.com/Book-Recommender/learning-model
+
+## Reflection: Kamaljeeth
+
+## Reflection: Matteo
+
+## Reflection: Anim
+
+## Reflction: Jonathan
+
+## Reflection: Edgardo
+
+## Reflection: Melody
